@@ -1,1 +1,4 @@
 # Fortc 是一个用于自己学习用的参考Zinx的轻量级的高并发TCP框架
+具体使用方式可参照sample 
+server为服务器使用方式案例
+client是客户端是方式
